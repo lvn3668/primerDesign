@@ -1,0 +1,266 @@
+
+FORWARD PRIMERS
+
+
+REVERSE PRIMERS
+
+CATCGACTATC length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=10
+ATCGACTATCG length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=9
+TCGACTATCGA length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=8
+CGACTATCGAT length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=7
+GACTATCGATC length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=6
+ACTATCGATCA length=10 GC%=40.000 Melt. Temp.=30.000 Dist. from target=5
+CTATCGATCAT length=10 GC%=40.000 Melt. Temp.=30.000 Dist. from target=4
+TATCGATCATC length=10 GC%=40.000 Melt. Temp.=30.000 Dist. from target=3
+ATCGATCATCG length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=2
+TCGATCATCGA length=10 GC%=50.000 Melt. Temp.=32.000 Dist. from target=1
+FORWARD PRIMERS
+
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=10
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=9
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=8
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=7
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=6
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=5
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=4
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=3
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=2
+CTAGATCGATAT length= 11 GC%=36.364 Melt. Temp.=32.000 dist. from target=1
+
+REVERSE PRIMERS
+
+TCATCGACTATC length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=10
+CATCGACTATCG length=11 GC%=54.545 Melt. Temp.=36.000 Dist. from target=9
+ATCGACTATCGA length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=8
+TCGACTATCGAT length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=7
+CGACTATCGATC length=11 GC%=54.545 Melt. Temp.=36.000 Dist. from target=6
+GACTATCGATCA length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=5
+ACTATCGATCAT length=11 GC%=36.364 Melt. Temp.=32.000 Dist. from target=4
+CTATCGATCATC length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=3
+TATCGATCATCG length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=2
+ATCGATCATCGA length=11 GC%=45.455 Melt. Temp.=34.000 Dist. from target=1
+FORWARD PRIMERS
+
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=10
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=9
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=8
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=7
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=6
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=5
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=4
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=3
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=2
+GCTAGATCGATAT length= 12 GC%=41.667 Melt. Temp.=36.000 dist. from target=1
+
+REVERSE PRIMERS
+
+ATCATCGACTATC length=12 GC%=41.667 Melt. Temp.=36.000 Dist. from target=10
+TCATCGACTATCG length=12 GC%=50.000 Melt. Temp.=38.000 Dist. from target=9
+CATCGACTATCGA length=12 GC%=50.000 Melt. Temp.=38.000 Dist. from target=8
+ATCGACTATCGAT length=12 GC%=41.667 Melt. Temp.=36.000 Dist. from target=7
+TCGACTATCGATC length=12 GC%=50.000 Melt. Temp.=38.000 Dist. from target=6
+CGACTATCGATCA length=12 GC%=50.000 Melt. Temp.=38.000 Dist. from target=5
+GACTATCGATCAT length=12 GC%=41.667 Melt. Temp.=36.000 Dist. from target=4
+ACTATCGATCATC length=12 GC%=41.667 Melt. Temp.=36.000 Dist. from target=3
+CTATCGATCATCG length=12 GC%=50.000 Melt. Temp.=38.000 Dist. from target=2
+TATCGATCATCGA length=12 GC%=41.667 Melt. Temp.=36.000 Dist. from target=1
+FORWARD PRIMERS
+
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=10
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=9
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=8
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=7
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=6
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=5
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=4
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=3
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=2
+TGCTAGATCGATAT length= 13 GC%=38.462 Melt. Temp.=38.000 dist. from target=1
+
+REVERSE PRIMERS
+
+TATCATCGACTATC length=13 GC%=38.462 Melt. Temp.=38.000 Dist. from target=10
+ATCATCGACTATCG length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=9
+TCATCGACTATCGA length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=8
+CATCGACTATCGAT length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=7
+ATCGACTATCGATC length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=6
+TCGACTATCGATCA length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=5
+CGACTATCGATCAT length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=4
+GACTATCGATCATC length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=3
+ACTATCGATCATCG length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=2
+CTATCGATCATCGA length=13 GC%=46.154 Melt. Temp.=40.000 Dist. from target=1
+FORWARD PRIMERS
+
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=10
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=9
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=8
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=7
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=6
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=5
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=4
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=3
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=2
+ATGCTAGATCGATAT length= 14 GC%=35.714 Melt. Temp.=40.000 dist. from target=1
+
+REVERSE PRIMERS
+
+CTATCATCGACTATC length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=10
+TATCATCGACTATCG length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=9
+ATCATCGACTATCGA length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=8
+TCATCGACTATCGAT length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=7
+CATCGACTATCGATC length=14 GC%=50.000 Melt. Temp.=44.000 Dist. from target=6
+ATCGACTATCGATCA length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=5
+TCGACTATCGATCAT length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=4
+CGACTATCGATCATC length=14 GC%=50.000 Melt. Temp.=44.000 Dist. from target=3
+GACTATCGATCATCG length=14 GC%=50.000 Melt. Temp.=44.000 Dist. from target=2
+ACTATCGATCATCGA length=14 GC%=42.857 Melt. Temp.=42.000 Dist. from target=1
+FORWARD PRIMERS
+
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=10
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=9
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=8
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=7
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=6
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=5
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=4
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=3
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=2
+GATGCTAGATCGATAT length= 15 GC%=40.000 Melt. Temp.=44.000 dist. from target=1
+
+REVERSE PRIMERS
+
+ACTATCATCGACTATC length=15 GC%=40.000 Melt. Temp.=44.000 Dist. from target=10
+CTATCATCGACTATCG length=15 GC%=46.667 Melt. Temp.=46.000 Dist. from target=9
+TATCATCGACTATCGA length=15 GC%=40.000 Melt. Temp.=44.000 Dist. from target=8
+ATCATCGACTATCGAT length=15 GC%=40.000 Melt. Temp.=44.000 Dist. from target=7
+TCATCGACTATCGATC length=15 GC%=46.667 Melt. Temp.=46.000 Dist. from target=6
+CATCGACTATCGATCA length=15 GC%=46.667 Melt. Temp.=46.000 Dist. from target=5
+ATCGACTATCGATCAT length=15 GC%=40.000 Melt. Temp.=44.000 Dist. from target=4
+TCGACTATCGATCATC length=15 GC%=46.667 Melt. Temp.=46.000 Dist. from target=3
+CGACTATCGATCATCG length=15 GC%=53.333 Melt. Temp.=48.000 Dist. from target=2
+GACTATCGATCATCGA length=15 GC%=46.667 Melt. Temp.=46.000 Dist. from target=1
+FORWARD PRIMERS
+
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=10
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=9
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=8
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=7
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=6
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=5
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=4
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=3
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=2
+CGATGCTAGATCGATAT length= 16 GC%=43.750 Melt. Temp.=48.000 dist. from target=1
+
+REVERSE PRIMERS
+
+TACTATCATCGACTATC length=16 GC%=37.500 Melt. Temp.=46.000 Dist. from target=10
+ACTATCATCGACTATCG length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=9
+CTATCATCGACTATCGA length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=8
+TATCATCGACTATCGAT length=16 GC%=37.500 Melt. Temp.=46.000 Dist. from target=7
+ATCATCGACTATCGATC length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=6
+TCATCGACTATCGATCA length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=5
+CATCGACTATCGATCAT length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=4
+ATCGACTATCGATCATC length=16 GC%=43.750 Melt. Temp.=48.000 Dist. from target=3
+TCGACTATCGATCATCG length=16 GC%=50.000 Melt. Temp.=50.000 Dist. from target=2
+CGACTATCGATCATCGA length=16 GC%=50.000 Melt. Temp.=50.000 Dist. from target=1
+FORWARD PRIMERS
+
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=10
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=9
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=8
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=7
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=6
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=5
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=4
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=3
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=2
+TCGATGCTAGATCGATAT length= 17 GC%=41.176 Melt. Temp.=50.000 dist. from target=1
+
+REVERSE PRIMERS
+
+TTACTATCATCGACTATC length=17 GC%=35.294 Melt. Temp.=48.000 Dist. from target=10
+TACTATCATCGACTATCG length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=9
+ACTATCATCGACTATCGA length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=8
+CTATCATCGACTATCGAT length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=7
+TATCATCGACTATCGATC length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=6
+ATCATCGACTATCGATCA length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=5
+TCATCGACTATCGATCAT length=17 GC%=41.176 Melt. Temp.=50.000 Dist. from target=4
+CATCGACTATCGATCATC length=17 GC%=47.059 Melt. Temp.=52.000 Dist. from target=3
+ATCGACTATCGATCATCG length=17 GC%=47.059 Melt. Temp.=52.000 Dist. from target=2
+TCGACTATCGATCATCGA length=17 GC%=47.059 Melt. Temp.=52.000 Dist. from target=1
+FORWARD PRIMERS
+
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=10
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=9
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=8
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=7
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=6
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=5
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=4
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=3
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=2
+ATCGATGCTAGATCGATAT length= 18 GC%=38.889 Melt. Temp.=52.000 dist. from target=1
+
+REVERSE PRIMERS
+
+ATTACTATCATCGACTATC length=18 GC%=33.333 Melt. Temp.=50.000 Dist. from target=10
+TTACTATCATCGACTATCG length=18 GC%=38.889 Melt. Temp.=52.000 Dist. from target=9
+TACTATCATCGACTATCGA length=18 GC%=38.889 Melt. Temp.=52.000 Dist. from target=8
+ACTATCATCGACTATCGAT length=18 GC%=38.889 Melt. Temp.=52.000 Dist. from target=7
+CTATCATCGACTATCGATC length=18 GC%=44.444 Melt. Temp.=54.000 Dist. from target=6
+TATCATCGACTATCGATCA length=18 GC%=38.889 Melt. Temp.=52.000 Dist. from target=5
+ATCATCGACTATCGATCAT length=18 GC%=38.889 Melt. Temp.=52.000 Dist. from target=4
+TCATCGACTATCGATCATC length=18 GC%=44.444 Melt. Temp.=54.000 Dist. from target=3
+CATCGACTATCGATCATCG length=18 GC%=50.000 Melt. Temp.=56.000 Dist. from target=2
+ATCGACTATCGATCATCGA length=18 GC%=44.444 Melt. Temp.=54.000 Dist. from target=1
+FORWARD PRIMERS
+
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=10
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=9
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=8
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=7
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=6
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=5
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=4
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=3
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=2
+GATCGATGCTAGATCGATAT length= 19 GC%=42.105 Melt. Temp.=56.000 dist. from target=1
+
+REVERSE PRIMERS
+
+AATTACTATCATCGACTATC length=19 GC%=31.579 Melt. Temp.=52.000 Dist. from target=10
+ATTACTATCATCGACTATCG length=19 GC%=36.842 Melt. Temp.=54.000 Dist. from target=9
+TTACTATCATCGACTATCGA length=19 GC%=36.842 Melt. Temp.=54.000 Dist. from target=8
+TACTATCATCGACTATCGAT length=19 GC%=36.842 Melt. Temp.=54.000 Dist. from target=7
+ACTATCATCGACTATCGATC length=19 GC%=42.105 Melt. Temp.=56.000 Dist. from target=6
+CTATCATCGACTATCGATCA length=19 GC%=42.105 Melt. Temp.=56.000 Dist. from target=5
+TATCATCGACTATCGATCAT length=19 GC%=36.842 Melt. Temp.=54.000 Dist. from target=4
+ATCATCGACTATCGATCATC length=19 GC%=42.105 Melt. Temp.=56.000 Dist. from target=3
+TCATCGACTATCGATCATCG length=19 GC%=47.368 Melt. Temp.=58.000 Dist. from target=2
+CATCGACTATCGATCATCGA length=19 GC%=47.368 Melt. Temp.=58.000 Dist. from target=1
+FORWARD PRIMERS
+
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=10
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=9
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=8
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=7
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=6
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=5
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=4
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=3
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=2
+TGATCGATGCTAGATCGATAT length= 20 GC%=40.000 Melt. Temp.=58.000 dist. from target=1
+
+REVERSE PRIMERS
+
+TAATTACTATCATCGACTATC length=20 GC%=30.000 Melt. Temp.=54.000 Dist. from target=10
+AATTACTATCATCGACTATCG length=20 GC%=35.000 Melt. Temp.=56.000 Dist. from target=9
+ATTACTATCATCGACTATCGA length=20 GC%=35.000 Melt. Temp.=56.000 Dist. from target=8
+TTACTATCATCGACTATCGAT length=20 GC%=35.000 Melt. Temp.=56.000 Dist. from target=7
+TACTATCATCGACTATCGATC length=20 GC%=40.000 Melt. Temp.=58.000 Dist. from target=6
+ACTATCATCGACTATCGATCA length=20 GC%=40.000 Melt. Temp.=58.000 Dist. from target=5
+CTATCATCGACTATCGATCAT length=20 GC%=40.000 Melt. Temp.=58.000 Dist. from target=4
+TATCATCGACTATCGATCATC length=20 GC%=40.000 Melt. Temp.=58.000 Dist. from target=3
+ATCATCGACTATCGATCATCG length=20 GC%=45.000 Melt. Temp.=60.000 Dist. from target=2
+TCATCGACTATCGATCATCGA length=20 GC%=45.000 Melt. Temp.=60.000 Dist. from target=1
